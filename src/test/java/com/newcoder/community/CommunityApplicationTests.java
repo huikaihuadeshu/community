@@ -18,6 +18,7 @@ import java.util.Date;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @ContextConfiguration
+//更改
 class CommunityApplicationTests implements ApplicationContextAware {
 
     private ApplicationContext applicationContext;
